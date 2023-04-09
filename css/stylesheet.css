@@ -1,0 +1,188 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin: 0;
+    
+}
+
+.nav{
+    display: flex;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+}
+
+.nav-menu{
+    list-style: none;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.list-item{
+    display: inline;
+    color: black;
+    margin: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.kfc-logo{
+    margin-left: 60px;
+    margin-top: 5%;
+
+}
+
+.search-icon{
+    margin-top: 30px;
+    margin-left: 200px
+}
+
+.list-item:hover{
+    color: red;
+}
+
+.title{
+    text-align: center;
+    font-size: 35px;
+}
+
+.para p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.para{
+   text-align: center;
+   margin-top: 3%;
+   line-height: 30px;
+   margin-left: 240px;
+   margin-right: 240px;
+}
+
+.box{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.box-link{
+   text-decoration: none;
+   color: white;
+   background-color: red;
+   padding: 11px 24px;
+}
+
+.box-link:hover{
+    background-color: black;
+}
+
+.box-1{
+    text-align: center;
+    margin-top: 7%;
+}
+
+.box-link-1{
+    text-decoration: none;
+   color: white;
+   background-color: red;
+   padding: 16px 95.9px;
+   font-size: 25px;
+}
+
+.box-link-1:hover{
+    background-color: black;
+}
+
+.fotter{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+.list{
+    list-style: none;
+    line-height: 30px;
+}
+
+.list-item-1{
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+    font-weight: bold;
+}
+
+.fotter-title{
+    margin-top: -20px;
+    color: red;
+}
+
+.kfc-log-2{
+    margin-right: 12%;
+    margin-top: -250px;
+}
+
+.list-1{
+    list-style: none;
+    line-height: 30px;
+}
+
+.list-2{
+    list-style: none;
+    line-height: 30px;
+}
+
+.list-div{
+    margin-left: -8.5%;
+}
+
+.fotter-title-1{
+    margin-top: -20px;
+    color: red;
+    margin-left: 10%;
+}
+
+.fotter-title-2{
+    margin-top: -20px;
+    color: red;
+    margin-left: 10%;
+}
+
+.list-div-1{
+    margin-left: -12.5%;
+}
+
+.list-div-2{
+    margin-left: -11.8%;
+}
+
+.fotter-pt2{
+    font-size: 12px;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+.boki{
+    margin-top: 1%;
+}
+
+.boki-link{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
